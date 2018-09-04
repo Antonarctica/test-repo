@@ -5,7 +5,13 @@ date: "04/09/2018"
 output: html_document
 ---
 
-# Getting started With reproducible Antarctic Data Science
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# Getting started With reproducible Antarctic Data Science {#intro}
 Before getting started  with the R tools we start with a brief overview of the basics.
 This overview is meant to get you going so th information provide is by no means meant to be exhaustive, links to additional information and resources can be found in the links.
 
